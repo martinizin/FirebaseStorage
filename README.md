@@ -7,7 +7,7 @@ Almacenamiento de archivos utilizando el servicio de "Storage" de firebase
 Clona el proyecto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/martinizin/FirebaseStorage.git
 ```
 
 Posiciónate la carpeta del proyecto
@@ -56,4 +56,20 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
   }
 ```
 
-## 🖼️ Screenshots de funcionamiento del proyecto
+##  Screenshots de funcionamiento del proyecto
+
+- LOCAL
+
+  ![image](https://github.com/martinizin/FirebaseStorage/assets/117743846/4395f693-82c9-44ac-a0f7-b55815ad6115)
+
+  ![image](https://github.com/martinizin/FirebaseStorage/assets/117743846/5f7d7fa8-31e8-41b1-ba4a-e9c9369692ec)
+
+
+- HOSTING
+
+
+- ALMACENAMIENTO EN FIREBASE
+
+  ![image](https://github.com/martinizin/FirebaseStorage/assets/117743846/7eb7e376-60cc-4323-ad65-b419e086bea7)
+
+
